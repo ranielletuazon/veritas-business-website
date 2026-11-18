@@ -1,0 +1,215 @@
+[
+    {
+        "id": "brew-and-bloom",
+        "name": "Brew & Bloom Café",
+        "tagline": "Specialty coffee and flowers under one roof",
+        "categorySlug": "coffee-shops",
+        "countries": [
+            "SG",
+            "PH"
+        ],
+        "currency": "SGD",
+        "investmentMin": 180000,
+        "investmentMax": 260000,
+        "franchiseFee": 35000,
+        "royaltyPercent": 6,
+        "outletsCount": 24,
+        "yearFounded": 2017,
+        "avgOutletRevenue": 620000,
+        "avgOutletProfit": 118000,
+        "supportOffered": [
+            "Site selection and lease negotiation",
+            "4-week barista and management training",
+            "Store design and fit-out guidance",
+            "Central supply of beans and floral stock",
+            "Launch marketing campaign"
+        ],
+        "description": "A café concept that pairs specialty coffee with a small fresh-flower bar. Outlets fit into 600 to 900 sq ft spaces in malls and office lobbies, and the flower bar lifts average spend during gifting seasons.",
+        "isFeatured": true
+    },
+    {
+        "id": "little-einsteins-lab",
+        "name": "Little Einsteins Lab",
+        "tagline": "Hands-on science enrichment for kids aged 4 to 12",
+        "categorySlug": "education-tutoring",
+        "countries": [
+            "SG",
+            "PH"
+        ],
+        "currency": "SGD",
+        "investmentMin": 90000,
+        "investmentMax": 140000,
+        "franchiseFee": 25000,
+        "royaltyPercent": 8,
+        "outletsCount": 31,
+        "yearFounded": 2014,
+        "avgOutletRevenue": 410000,
+        "avgOutletProfit": 96000,
+        "supportOffered": [
+            "Full curriculum and lesson kits",
+            "Teacher recruitment and certification",
+            "Parent CRM and booking system",
+            "Ongoing regional marketing"
+        ],
+        "description": "A STEM enrichment brand running weekly experiment-based classes and holiday camps. Centres need only 1,000 sq ft, and the programme is built to run well with a small team of trained teachers.",
+        "isFeatured": true
+    },
+    {
+        "id": "sizzle-street",
+        "name": "Sizzle Street",
+        "tagline": "Korean-style street food in a compact kiosk format",
+        "categorySlug": "restaurants",
+        "countries": [
+            "PH"
+        ],
+        "currency": "PHP",
+        "investmentMin": 1200000,
+        "investmentMax": 2500000,
+        "franchiseFee": 350000,
+        "royaltyPercent": 5,
+        "outletsCount": 68,
+        "yearFounded": 2019,
+        "avgOutletRevenue": 6800000,
+        "avgOutletProfit": 1250000,
+        "supportOffered": [
+            "Turnkey kiosk build",
+            "Crew training and opening support",
+            "Commissary supply of sauces and marinated meats",
+            "Delivery app listing set-up"
+        ],
+        "description": "A fast-growing kiosk and food-court brand serving tteokbokki, corn dogs and rice bowls. The small footprint and simple menu make it one of the quickest concepts to open and train for.",
+        "isFeatured": true
+    },
+    {
+        "id": "freshfold-laundry",
+        "name": "FreshFold Laundry",
+        "tagline": "Self-service and wash-and-fold laundry",
+        "categorySlug": "laundry-cleaning",
+        "countries": [
+            "SG",
+            "PH"
+        ],
+        "currency": "SGD",
+        "investmentMin": 120000,
+        "investmentMax": 180000,
+        "franchiseFee": 20000,
+        "royaltyPercent": 5,
+        "outletsCount": 42,
+        "yearFounded": 2016,
+        "avgOutletRevenue": 210000,
+        "avgOutletProfit": 72000,
+        "supportOffered": [
+            "Commercial machine sourcing and installation",
+            "Cashless payment and remote monitoring app",
+            "Wash-and-fold pickup platform",
+            "Preventive maintenance programme"
+        ],
+        "description": "A hybrid laundry concept combining unmanned self-service machines with a pickup-and-delivery wash-and-fold service. Suitable for owners who want a semi-passive business.",
+        "isFeatured": false
+    },
+    {
+        "id": "pulse-hiit",
+        "name": "Pulse HIIT Studio",
+        "tagline": "45-minute heart-rate based group workouts",
+        "categorySlug": "fitness-gyms",
+        "countries": [
+            "SG"
+        ],
+        "currency": "SGD",
+        "investmentMin": 350000,
+        "investmentMax": 480000,
+        "franchiseFee": 50000,
+        "royaltyPercent": 7,
+        "outletsCount": 12,
+        "yearFounded": 2018,
+        "avgOutletRevenue": 820000,
+        "avgOutletProfit": 165000,
+        "supportOffered": [
+            "Studio design and equipment package",
+            "Coach certification programme",
+            "Member app with class booking",
+            "Pre-sale membership campaign before opening"
+        ],
+        "description": "A boutique fitness brand built around high-intensity interval classes with live heart-rate tracking on screens. Studios usually pre-sell over 150 memberships before they open.",
+        "isFeatured": false
+    },
+    {
+        "id": "glow-lab-aesthetics",
+        "name": "Glow Lab Aesthetics",
+        "tagline": "Affordable facials and skin treatments",
+        "categorySlug": "beauty-spas",
+        "countries": [
+            "PH"
+        ],
+        "currency": "PHP",
+        "investmentMin": 3500000,
+        "investmentMax": 5500000,
+        "franchiseFee": 750000,
+        "royaltyPercent": 6,
+        "outletsCount": 27,
+        "yearFounded": 2015,
+        "avgOutletRevenue": 14500000,
+        "avgOutletProfit": 2900000,
+        "supportOffered": [
+            "Licensed aesthetician training",
+            "Equipment and product supply",
+            "Clinic set-up and permit guidance",
+            "Nationwide brand campaigns"
+        ],
+        "description": "A non-invasive skin care clinic brand offering facials, peels and laser treatments at accessible prices in community and regional malls.",
+        "isFeatured": true
+    },
+    {
+        "id": "quickmart-24",
+        "name": "QuickMart 24",
+        "tagline": "Modern 24-hour convenience store",
+        "categorySlug": "convenience-stores",
+        "countries": [
+            "PH"
+        ],
+        "currency": "PHP",
+        "investmentMin": 4000000,
+        "investmentMax": 6500000,
+        "franchiseFee": 500000,
+        "royaltyPercent": 4,
+        "outletsCount": 115,
+        "yearFounded": 2012,
+        "avgOutletRevenue": 18000000,
+        "avgOutletProfit": 1650000,
+        "supportOffered": [
+            "Store layout and inventory planning",
+            "POS and stock management system",
+            "Central distribution of goods",
+            "Area manager visits every month"
+        ],
+        "description": "A convenience store brand with ready-to-eat meals, bills payment and e-wallet services. Proven in residential and transport-hub locations across Luzon and Visayas.",
+        "isFeatured": false
+    },
+    {
+        "id": "kidsmile-dental",
+        "name": "KidSmile Dental",
+        "tagline": "Child-friendly dental clinics",
+        "categorySlug": "health-clinics",
+        "countries": [
+            "SG",
+            "PH"
+        ],
+        "currency": "SGD",
+        "investmentMin": 280000,
+        "investmentMax": 400000,
+        "franchiseFee": 45000,
+        "royaltyPercent": 7,
+        "outletsCount": 9,
+        "yearFounded": 2020,
+        "avgOutletRevenue": 950000,
+        "avgOutletProfit": 210000,
+        "supportOffered": [
+            "Clinic design built for children",
+            "Dentist recruitment network",
+            "Practice management software",
+            "Licensing and compliance guidance"
+        ],
+        "description": "A paediatric dental clinic concept with playful interiors, gentle treatment protocols and school outreach programmes. Franchisees partner with licensed dentists to run each clinic.",
+        "isFeatured": false
+    }
+]

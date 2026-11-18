@@ -1,0 +1,100 @@
+[
+    {
+        "slug": "coffee-shops",
+        "name": "Coffee Shops",
+        "icon": "Coffee",
+        "description": "Cafés, kiosks and specialty coffee bars",
+        "hue": 45
+    },
+    {
+        "slug": "restaurants",
+        "name": "Eateries & Restaurants",
+        "icon": "UtensilsCrossed",
+        "description": "Restaurants, hawker stalls and food courts",
+        "hue": 25
+    },
+    {
+        "slug": "salons-barbershops",
+        "name": "Salons & Barbershops",
+        "icon": "Scissors",
+        "description": "Hair salons, barbers and nail studios",
+        "hue": 330
+    },
+    {
+        "slug": "beauty-spas",
+        "name": "Beauty & Spas",
+        "icon": "Sparkles",
+        "description": "Spas, aesthetics and wellness centres",
+        "hue": 300
+    },
+    {
+        "slug": "retail-shops",
+        "name": "Retail Shops",
+        "icon": "ShoppingBag",
+        "description": "Boutiques, gift shops and specialty retail",
+        "hue": 350
+    },
+    {
+        "slug": "convenience-stores",
+        "name": "Convenience Stores",
+        "icon": "Store",
+        "description": "Minimarts, sari-sari stores and provision shops",
+        "hue": 15
+    },
+    {
+        "slug": "fitness-gyms",
+        "name": "Fitness & Gyms",
+        "icon": "Dumbbell",
+        "description": "Gyms, yoga studios and boutique fitness",
+        "hue": 200
+    },
+    {
+        "slug": "education-tutoring",
+        "name": "Education & Tutoring",
+        "icon": "GraduationCap",
+        "description": "Tuition centres, enrichment and preschools",
+        "hue": 260
+    },
+    {
+        "slug": "laundry-cleaning",
+        "name": "Laundry & Cleaning",
+        "icon": "WashingMachine",
+        "description": "Self-service laundries and cleaning services",
+        "hue": 190
+    },
+    {
+        "slug": "e-commerce",
+        "name": "E-commerce",
+        "icon": "ShoppingCart",
+        "description": "Online stores and marketplace sellers",
+        "hue": 280
+    },
+    {
+        "slug": "health-clinics",
+        "name": "Health & Clinics",
+        "icon": "Stethoscope",
+        "description": "Clinics, dental, physio and pharmacies",
+        "hue": 160
+    },
+    {
+        "slug": "tech-saas",
+        "name": "Tech & SaaS",
+        "icon": "CodeXml",
+        "description": "Software, apps and IT services",
+        "hue": 230
+    },
+    {
+        "slug": "logistics",
+        "name": "Logistics",
+        "icon": "Truck",
+        "description": "Delivery, warehousing and freight",
+        "hue": 210
+    },
+    {
+        "slug": "manufacturing",
+        "name": "Manufacturing",
+        "icon": "Factory",
+        "description": "Food production, packaging and light industry",
+        "hue": 120
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "id": "harbourline-partners",
+        "name": "Harbourline Business Partners",
+        "type": "broker",
+        "country": "SG",
+        "city": "Singapore",
+        "specialties": [
+            "F&B",
+            "Retail",
+            "Education"
+        ],
+        "dealsClosed": 140,
+        "yearsExperience": 12,
+        "rating": 4.8,
+        "reviewCount": 126,
+        "description": "Small business brokers who help owners of cafés, retail shops and tuition centres find serious buyers and manage the sale from valuation to handover."
+    },
+    {
+        "id": "meridian-capital-advisory",
+        "name": "Meridian Capital Advisory",
+        "type": "ma-advisor",
+        "country": "SG",
+        "city": "Singapore",
+        "specialties": [
+            "Tech & SaaS",
+            "Healthcare",
+            "Cross-Border Deals"
+        ],
+        "dealsClosed": 38,
+        "yearsExperience": 15,
+        "rating": 4.9,
+        "reviewCount": 41,
+        "description": "Mid-market M&A advisors supporting founders with deal structuring, due diligence and negotiations for transactions between S$2M and S$50M."
+    },
+    {
+        "id": "lionbridge-sme-finance",
+        "name": "Lionbridge SME Finance",
+        "type": "lender",
+        "country": "SG",
+        "city": "Singapore",
+        "specialties": [
+            "Acquisition Loans",
+            "Working Capital",
+            "Equipment Financing"
+        ],
+        "dealsClosed": 520,
+        "yearsExperience": 9,
+        "rating": 4.6,
+        "reviewCount": 312,
+        "description": "A specialist lender offering acquisition financing for buyers of small and medium businesses, with decisions in as little as five working days."
+    },
+    {
+        "id": "bayanihan-business-brokers",
+        "name": "Bayanihan Business Brokers",
+        "type": "broker",
+        "country": "PH",
+        "city": "Makati",
+        "specialties": [
+            "Food & Beverage",
+            "Franchises",
+            "Retail"
+        ],
+        "dealsClosed": 95,
+        "yearsExperience": 10,
+        "rating": 4.7,
+        "reviewCount": 88,
+        "description": "Metro Manila brokers who specialise in restaurant, kiosk and franchise resales, with a network of local and overseas Filipino buyers."
+    },
+    {
+        "id": "pacific-isles-advisory",
+        "name": "Pacific Isles Advisory",
+        "type": "ma-advisor",
+        "country": "PH",
+        "city": "Taguig (BGC)",
+        "specialties": [
+            "Manufacturing",
+            "Logistics",
+            "Family Business Succession"
+        ],
+        "dealsClosed": 27,
+        "yearsExperience": 18,
+        "rating": 4.9,
+        "reviewCount": 23,
+        "description": "Advisors helping family-owned companies plan succession, prepare for sale and connect with strategic and foreign investors."
+    },
+    {
+        "id": "sulong-capital",
+        "name": "Sulong Capital",
+        "type": "lender",
+        "country": "PH",
+        "city": "Cebu City",
+        "specialties": [
+            "Business Acquisition Loans",
+            "Franchise Financing"
+        ],
+        "dealsClosed": 310,
+        "yearsExperience": 7,
+        "rating": 4.5,
+        "reviewCount": 174,
+        "description": "A Cebu-based lender providing loans for buying an existing business or opening a franchise, with flexible terms for first-time owners."
+    }
+]
