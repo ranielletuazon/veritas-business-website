@@ -4,13 +4,14 @@ import type { Category } from "@/types/category";
 
 interface CategoryCardProps {
     category: Category;
-    /** Number of listings in this category. */
-    count: number;
     /** List page the card links to, with the category filter applied. */
     basePath: "/businesses" | "/franchises";
 }
 
-export default function CategoryCard({ category, count, basePath }: CategoryCardProps) {
+export default function CategoryCard({
+    category,
+    basePath,
+}: CategoryCardProps) {
     return (
         <Link
             to={`${basePath}?category=${category.slug}`}
@@ -19,14 +20,16 @@ export default function CategoryCard({ category, count, basePath }: CategoryCard
             <span
                 className="flex size-11 shrink-0 items-center justify-center rounded-md"
                 // Each category has its own hue in categories.json.
-                style={{ backgroundColor: `oklch(0.96 0.025 ${category.hue})`, color: `oklch(0.42 0.1 ${category.hue})` }}
+                style={{
+                    backgroundColor: `oklch(0.96 0.025 ${category.hue})`,
+                    color: `oklch(0.42 0.1 ${category.hue})`,
+                }}
             >
                 <CategoryIcon name={category.icon} className="size-5" />
             </span>
             <span className="min-w-0">
-                <span className="block truncate font-semibold text-slate-900 group-hover:text-primary">{category.name}</span>
-                <span className="block text-sm text-slate-500">
-                    {count} {count === 1 ? "Listing" : "Listings"}
+                <span className="block truncate font-semibold text-slate-900 group-hover:text-primary">
+                    {category.name}
                 </span>
             </span>
         </Link>
